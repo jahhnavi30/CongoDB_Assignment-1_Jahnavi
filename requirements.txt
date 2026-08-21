@@ -3,6 +3,3 @@ python-dotenv==1.2.3
 streamlit
 pandas
 python-dotenv
-falkordb
-neo4j
-pymemgraph
